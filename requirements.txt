@@ -1,0 +1,4 @@
+opencv-python
+numpy
+mxnet-cu100
+pandas
